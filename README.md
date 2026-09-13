@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 # Hey, I'm Alex 👋
 
-Third-year Computer Science student at Dublin City University, building software at the intersection of engineering and financial markets. I learn by building — most of what I actually know came from shipping something real, not from a lecture.
+## About me
+
+Third-year Computer Science student at Dublin City University, building software that I use daily at the intersection of engineering and financial markets. I learn by building — most of what I actually know came from shipping something real, not from a lecture.
 
 ## What I'm working on
 
@@ -36,10 +38,11 @@ I also build with AI-assisted development — directing, reviewing, and testing 
 ## Reach me
 
 - 💼 [LinkedIn](https://linkedin.com/in/alexander-zudins)
-- 📧 [gmail](mailto:alexanderzudin1@gmail.com)
+- 📧 [Gmail](mailto:alexanderzudin1@gmail.com)
 
 ## A few facts
 
-- ⚽ Ten years as a goalkeeper — one season as Player of the Year, and time spent as captain
-- 🎵 Self-taught music producer
 - 📊 I trade and journal daily — treating the market as a live testbed for the tools I build
+- 🎵 Self-taught — music production, audio engineering, and music video direction
+- ⚽ Ten years as a goalkeeper — one season as Player of the Year, and time spent as captain
+
