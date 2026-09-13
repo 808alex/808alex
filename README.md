@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# Hey, I'm Alexander 👋
+# Hey, I'm Alex 👋
 
 Third-year Computer Science student at Dublin City University, building software at the intersection of engineering and financial markets. I learn by building — most of what I actually know came from shipping something real, not from a lecture.
 
@@ -31,11 +31,12 @@ Third-year Computer Science student at Dublin City University, building software
 
 `JavaScript` `Node.js` `Express` `SQLite` `Java` `C` `Git`
 
-I also build with AI-assisted development (Claude Code) — directing, reviewing, and testing end to end rather than writing every line by hand.
+I also build with AI-assisted development — directing, reviewing, and testing end to end rather than writing every line by hand.
 
 ## Reach me
 
 - 💼 [LinkedIn](https://linkedin.com/in/alexander-zudins)
+- 📧 [alexanderzudin1@gmail.com](mailto:alexanderzudin1@gmail.com)
 
 ## A few facts
 
