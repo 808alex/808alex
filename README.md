@@ -36,7 +36,7 @@ I also build with AI-assisted development — directing, reviewing, and testing 
 ## Reach me
 
 - 💼 [LinkedIn](https://linkedin.com/in/alexander-zudins)
-- 📧 [alexanderzudin1@gmail.com](mailto:alexanderzudin1@gmail.com)
+- 📧 [gmail](mailto:alexanderzudin1@gmail.com)
 
 ## A few facts
 
