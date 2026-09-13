@@ -33,7 +33,7 @@ Third-year Computer Science student at Dublin City University, building software
 
 `JavaScript` `Node.js` `Express` `SQLite` `Java` `C` `Git`
 
-I also build with AI-assisted development — directing, reviewing, and testing end to end rather than writing every line by hand.
+I also build with AI-assisted development — directing, reviewing, and testing end to end, while developing a working understanding of prompt engineering along the way.
 
 ## Reach me
 
