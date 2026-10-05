@@ -27,6 +27,7 @@ Third-year Computer Science student at Dublin City University, building software
 ## What I'm working on
 
 - 🧾 **[Trenching Journal](https://github.com/808alex/Trading-Journal)** — a full-stack, local-first trading journal for logging and analysing on-chain trades, with behavioural analytics built on top
+- 🌐 **[Artist Webpage](https://github.com/808alex/Music-Artists-Website)** - a webpage about my favourite musical artists showing off my HTML, CSS, and JS skills. Built from scratch learning as I buiild.
 - 📈 Exploring tooling around blockchain markets and tokenized assets as that space evolves
 
 ## Tools I use
